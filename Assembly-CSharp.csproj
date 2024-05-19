@@ -61,12 +61,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\KeyCollection.cs" />
-    <Compile Include="Assets\GhostCharacter_Free\Scripts\GhostScript.cs" />
+    <Compile Include="Assets\Scripts\DoorController.cs" />
     <Compile Include="Assets\Scripts\KeyRotate.cs" />
     <Compile Include="Assets\Scripts\CharacterController.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\GhostCharacter_Free\Documents\readme_txt.txt" />
+    <None Include="Assets\Stylized Cute Alien Character\ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

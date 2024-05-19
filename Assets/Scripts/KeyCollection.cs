@@ -4,12 +4,37 @@ using UnityEngine;
 
 public class KeyCollection : MonoBehaviour
 {
+    private bool keyCollected = false;
     private void OnTriggerEnter(Collider other)
     {
-        if (other.CompareTag("Player")) // Eğer etkileşen nesne bir oyuncu ise
+        if (other.CompareTag("Player"))
         {
-            // Anahtarın kaybolması
+
             gameObject.SetActive(false);
+
+
+            DoorController doorController = FindObjectOfType<DoorController>();
+            if (doorController != null)
+            {
+                doorController.UnlockDoor();
+            }
+        }
+        else if (other.CompareTag("Key"))
+        {
+
+            gameObject.SetActive(false);
+
+
+            keyCollected = true;
+        }
+    }
+
+    private void OnTriggerStay(Collider other)
+    {
+        if (other.CompareTag("Door") && keyCollected)
+        {
+
+            UnityEngine.SceneManagement.SceneManager.LoadScene("SampleScene");
         }
     }
 }
