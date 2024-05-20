@@ -16,13 +16,13 @@
 
 <h3 align="center"><i>Oyun Hikayesi: </i></h3>
 
-<p align="center">Bu labirentin gizemli koridorlarında, zamanın dokusunu değiştirebilen bir uzaylı maceraya atılır. Yabancı bir gezegenden gelen Cosmo, kendini karmaşık bir labirentin içinde bulur. Labirent, yapay zeka ile eğitilmiş tehlikeli varlıklarla doludur ve labirentin sonundaki efsanevi hazineye ulaşmak için karakterimizin tüm yeteneklerini kullanması gerekecektir.
+<p align="center">Bu labirentin gizemli koridorlarında, zamanın dokusunu değiştirebilen bir uzaylı maceraya atılır. Yabancı bir gezegenden gelen Cosmo, kendini karmaşık bir labirentin içinde bulur. Labirent, yapay zeka ile eğitilmiş tehlikeli varlıklarla doludur ve labirentin sonundaki efsanevi hazineye ulaşmak için karakterimizin tüm yeteneklerini kullanması gerekecektir.</p>
 
-Labirentte ilerlerken, Cosmo düşmanlardan kaçmak ve labirentin sırlarını çözmek zorundadır. Neyse ki, özel bir yeteneği vardır: düşmanları fark ettiğinde zamanda geri giderek kaçma imkanı. Ancak, bu yetenek sınırsız değildir ve dikkatli kullanılmalıdır.
+<p align="center">Labirentte ilerlerken, Cosmo düşmanlardan kaçmak ve labirentin sırlarını çözmek zorundadır. Neyse ki, özel bir yeteneği vardır: düşmanları fark ettiğinde zamanda geri giderek kaçma imkanı. Ancak, bu yetenek sınırsız değildir ve dikkatli kullanılmalıdır.</p>
 
-Labirentin içinde ilerlerken, Cosmo labirentin duvarlarında eski uzaylı yazıtlarını ve gizemli sembolleri keşfeder. Bu semboller, labirentin ve hazineye giden yolun sırlarını saklar.
+<p align="center">Labirentin içinde ilerlerken, Cosmo labirentin duvarlarında eski uzaylı yazıtlarını ve gizemli sembolleri keşfeder. Bu semboller, labirentin ve hazineye giden yolun sırlarını saklar.</p>
 
-Sonunda, uzaylı karakterimiz labirentin sonuna ulaşır ve büyük bir kapıyla karşılaşır. Ancak, kapıyı açmak için bir anahtara ihtiyacı vardır. Labirentin derinliklerinde, gizlenmiş bir odada anahtarı bulur. Bu anahtar, sadece hazine odasının kapısını açmakla kalmaz, aynı zamanda uzaylı karakterimizin kendi geçmişini de açar.
+<p align="center">Sonunda, uzaylı karakterimiz labirentin sonuna ulaşır ve büyük bir kapıyla karşılaşır. Ancak, kapıyı açmak için bir anahtara ihtiyacı vardır. Labirentin derinliklerinde, gizlenmiş bir odada anahtarı bulur. Bu anahtar, sadece hazine odasının kapısını açmakla kalmaz, aynı zamanda uzaylı karakterimizin kendi geçmişini de açar.</p>
 
-Kapıyı açtığında, karakterimiz karşısında bir hazine odasıyla karşılaşır. Büyük bir hazine sandığı, odanın ortasında durur. Uzaylı karakterimiz, sandığı açar ve içinden uzayın en değerli hazineleriyle dolu bir hazineyi görür. Bu, labirentteki zorlu maceranın sonu ve başarısının kutlanmasıdır.
-The Maze of Time - Zamanın Labirenti</p>
+<p align="center">Kapıyı açtığında, karakterimiz karşısında bir hazine odasıyla karşılaşır. Büyük bir hazine sandığı, odanın ortasında durur. Uzaylı karakterimiz, sandığı açar ve içinden uzayın en değerli hazineleriyle dolu bir hazineyi görür. Bu, labirentteki zorlu maceranın sonu ve başarısının kutlanmasıdır.</p>
+<p align="center">The Maze of Time - Zamanın Labirenti</p>
