@@ -66,10 +66,13 @@
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_ExampleScript_01.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMPro_InstructionOverlay.cs" />
     <Compile Include="Assets\Scripts\KeyCollection.cs" />
+<<<<<<< HEAD
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeB.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\DropdownSample.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexColorCycler.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\EnvMapAnimator.cs" />
+=======
+>>>>>>> 4234e760e8b008f4294508e99c1186a4856d2f85
     <Compile Include="Assets\Scripts\BaziOyuncuVeModelKodları\Scripts\AjanCollision.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_A.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
@@ -79,6 +82,7 @@
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ChatController.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ObjectSpin.cs" />
     <Compile Include="Assets\Scripts\BaziOyuncuVeModelKodları\Player\DusmanSaldiri.cs" />
+<<<<<<< HEAD
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_PhoneNumberValidator.cs" />
     <Compile Include="Assets\Scripts\StartButton.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexJitter.cs" />
@@ -89,6 +93,9 @@
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventCheck.cs" />
     <Compile Include="Assets\Scripts\DoorController.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_UiFrameRateCounter.cs" />
+=======
+    <Compile Include="Assets\Scripts\DoorController.cs" />
+>>>>>>> 4234e760e8b008f4294508e99c1186a4856d2f85
     <Compile Include="Assets\Scripts\BaziOyuncuVeModelKodları\Scripts\Hadi.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextMeshSpawner.cs" />
@@ -101,14 +108,19 @@
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextMeshProFloatingText.cs" />
     <Compile Include="Assets\Scripts\BaziOyuncuVeModelKodları\Scripts\Interfaces\IIntreactable.cs" />
     <Compile Include="Assets\Scripts\PositionTracker.cs" />
+<<<<<<< HEAD
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ShaderPropAnimator.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\CameraController.cs" />
+=======
+    <Compile Include="Assets\Chest\chestScripts\chestOpener.cs" />
+>>>>>>> 4234e760e8b008f4294508e99c1186a4856d2f85
     <Compile Include="Assets\Scripts\BaziOyuncuVeModelKodları\Player\IDusman.cs" />
     <Compile Include="Assets\Scripts\KeyRotate.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark03.cs" />
     <Compile Include="Assets\Scripts\CharacterController.cs" />
     <Compile Include="Assets\Scripts\BaziOyuncuVeModelKodları\Player\OyuncuCani.cs" />
     <Compile Include="Assets\Scripts\BaziOyuncuVeModelKodları\Scripts\Obstacle.cs" />
+<<<<<<< HEAD
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextInfoDebugTool.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -139,6 +151,10 @@
     <None Include="Assets\TextMesh Pro\Examples &amp; Extras\Fonts\Bangers - OFL.txt" />
   </ItemGroup>
   <ItemGroup>
+=======
+    <Compile Include="Assets\Chest\chestScripts\Gold.cs" />
+    <None Include="Assets\Stylized Cute Alien Character\ReadMe.txt" />
+>>>>>>> 4234e760e8b008f4294508e99c1186a4856d2f85
     <Reference Include="UnityEngine">
       <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.25f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
       <Private>False</Private>
