@@ -2,7 +2,7 @@
 
 <p align="center">Bugün sizlere "The Maze of Time"ı sunmaktan mutluluk duyuyoruz. Bu oyun, zamanın gücünü keşfetmek ve labirentin derinliklerinde gizlenmiş bir hazineye ulaşmak için oyuncuları eşsiz bir maceraya davet ediyor.</p>
 
-Oyunun Konsepti:
+<h3 align="center"><i>Oyunun Konsepti:</i></h3>
 <p align="center">"The Maze of Time", dünyaya 54.6 milyon km uzaklıktaki bir gezegenden gelen Cosmo yu labirentin deriniklerine götürüyor. Cosmo, labirentte yapay zeka ile eğitilmiş düşmanlardan kaçarken labirenti çözmeye çalışıyor. Özel yeteneği sayesinde, zamanı geri alarak düşmanlarından kaçma fırsatı buluyor. Labirentin sonunda, kapıyı açıp hazineye ulaşmak için Cosmo'nun gizli anahtarı bulması gerekiyor.</p>
 
 <h3 align="center"><i>Tuş Takımları:</i></h3>
