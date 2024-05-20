@@ -27,6 +27,9 @@
 <p align="center">Kapıyı açtığında, karakterimiz karşısında bir hazine odasıyla karşılaşır. Büyük bir hazine sandığı, odanın ortasında durur. Uzaylı karakterimiz, sandığı açar ve içinden uzayın en değerli hazineleriyle dolu bir hazineyi görür. Bu, labirentteki zorlu maceranın sonu ve başarısının kutlanmasıdır.</p>
 <p align="center">The Maze of Time - Zamanın Labirenti</p>
 
+<h3 align="center"><i>Oyun Videosu Linki: </i></h3>
+<p align="center">Link Yazılacak</p>
+
 <div align="center">
    <div style="display-flex" just>
       <img src="ss5.png" width="500" height="300">
