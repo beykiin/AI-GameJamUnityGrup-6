@@ -30,13 +30,13 @@
 <div align="center">
    <div style="display-flex" just>
       <img src="ss5.png" width="600" height="300">
-      <img width="10">
+      <img width="1">
       <img src="ss1.png" width="600" height="300">
-      <img width="10">
+      <img width="1">
       <img src="ss2.png" width="600" height="300">
-      <img width="10">
+      <img width="1">
       <img src="ss3.png" width="600" height="300">
-      <img width="10">
+      <img width="1">
       <img src="ss4.png" width="600" height="300">
    </div>
 </div>
