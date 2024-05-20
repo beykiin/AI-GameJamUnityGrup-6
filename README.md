@@ -28,7 +28,7 @@
 <p align="center">The Maze of Time - Zamanın Labirenti</p>
 
 <h3 align="center"><i>Oyun Videosu Linki: </i></h3>
-<p align="center">Link Yazılacak</p>
+<p align="center">(https://youtu.be/X1XPzkygPzo)</p>
 
 <div align="center">
    <div style="display-flex" just>
